@@ -1,0 +1,20 @@
+{
+    "name": "express-server",
+    "version": "1.0.2",
+    "description": "This is an easy-to-use example Express server.",
+    "main": "server.js",
+    "scripts": {
+      "test": "node server.js",
+      "start": "node server.js"
+    },
+    "author": "Damian Freeman",
+    "dependencies": {
+      "express": "^4.16.4",
+      "next": "^8.0.0",
+      "express-generator": "^4.16.0"
+    },
+    "engines": {
+      "node": "10.15.0"
+    },
+    "license": "MIT"
+  }
